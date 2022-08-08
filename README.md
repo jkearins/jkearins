@@ -1,7 +1,12 @@
 # ✨ Hi, I'm J.Kearins | [![Profile Views](https://komarev.com/ghpvc/?username=jkearins&style=for-the-badge)](https://github.com/jkearins)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
+    <img width="70%" src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif">
+    <img
+        align="top"
+        width="28%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkearins&hide_border=true&theme=tokyonight"
+    />
 </p>
 <p align="center">
     <img
